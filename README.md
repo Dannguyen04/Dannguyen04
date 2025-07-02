@@ -17,13 +17,18 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dannguyen04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannguyen04&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dannguyen04&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dannguyen04&theme=tokyo-night&hide_border=true)
 
 ## 🤝 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:datthefool@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=Dannguyen04&color=brightgreen&style=flat-square&label=Profile+Views)
