@@ -3,9 +3,6 @@
 ## About Me
 - 🌱 I'm currently learning how to sleep
 - 📫 How to reach me: datthefool@gmail.com
-  
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
