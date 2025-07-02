@@ -27,8 +27,5 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dannguyen04&theme=tokyo-night&hide_border=true)
 
-## 🤝 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:datthefool@gmail.com
-
 ## 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dannguyen04&color=brightgreen&style=flat-square&label=Profile+Views)
