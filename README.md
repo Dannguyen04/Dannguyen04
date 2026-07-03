@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently learning how to sleep
-- 📫 How to reach me: datthefool@gmail.com
+- 📫 How to reach me: dannguyen2124@gmail.com
 
 ## 📊 GitHub Stats
 
